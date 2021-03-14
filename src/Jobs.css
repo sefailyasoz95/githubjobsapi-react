@@ -1,0 +1,8 @@
+.cardStyle {
+    border-radius: 10px;
+    border-width: 2px;
+}
+
+.cardStyle:hover {
+    background-color: #ddd;
+}
